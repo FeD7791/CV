@@ -29,7 +29,8 @@
   <strong|Bachelor's Thesis>: "Acoustic levitation: basic principles of the
   operation of an acoustic levitator", approved with Final grade: 10
 
-  Post Graduate Courses:
+  <with|font|TeX Gyre Pagella|font-base-size|14|<strong|Post Graduate
+  Courses<with|font|TeX Gyre Pagella|font-base-size|14|>>>
 
   <\itemize-dot>
     <item>Calculations Using Monte Carlo and Ab Initio Methods - Completed -
@@ -46,7 +47,7 @@
     <item>Extragalactic Astronomy - To be completed
   </itemize-dot>
 
-  <with|font|TeX Gyre Pagella|<with|font-base-size|14|<strong|Languages>>>
+  <with|font|TeX Gyre Pagella|font-base-size|14|<strong|Languages>>
 
   <\itemize-dot>
     <item>English - Proficiency level: C1
@@ -56,20 +57,89 @@
     <item>Spanish - Native
   </itemize-dot>
 
-  Work Experience
+  <with|font|TeX Gyre Pagella|font-base-size|14|<strong|Work Experience>>
 
   <\itemize-dot>
-    <item>Started: 08/01/2019 - Ended: 02/29/2020
+    <item><em|Started: 08/01/2019 - Ended: 02/29/2020>
 
     Student-Rented Assistant - Category B in the chair of: Experimental
-    Physics II, (Faculty of Mathematics, Astronomy, Physics and Computing).
+    Physics II, (Facultad de Matemática, Astronomía, Física y Computación).
     Appointed by competition.
 
-    <item>Started: 22/01/2020 - Ended: 21/02/2020
+    <item><em|Started: 22/01/2020 - Ended: 21/02/2020>
 
-    Student-Rented Assistant- Leveling Course (Faculty of Mathematics,
-    Astronomy, Physics and Computing). Appointed by competition.
+    Student-Rented Assistant- Leveling Course (Facultad de Matemática,
+    Astronomía, Física y Computación). Appointed by competition.
+
+    <item><em|Started 01/08/2021 - Ended 28/02/2022>
+
+    Student Assistant - Category A in the chair of: Quantum Mechanics II
+    (Facultad de Matemática, Astronomía, Física y Computación). Appointed by
+    competition.
+
+    <item><em|Started 03/2024 - Ended 06/2022>
+
+    Substitute Professor of Physics - Instituto Contardo Ferrini - Rio
+    Primero
+
+    <item><em|Started 12/08/2024 - Present>
+
+    Assistant Professor A - Simple dedication, in the chair of Mathematical
+    Analysis I (Facultad de Matemática, Astronomía, Física y Computación)
   </itemize-dot>
+
+  <with|font|TeX Gyre Pagella|font-base-size|14|<strong|Congresses>>
+
+  <\itemize-dot>
+    <item>Speaker at: XIII Edition Of The Friends Of Friends Meeting
+
+    <item>Speaker at: 66a Reunión anual de la Asociación Argentina de
+    Astronomía (16-20 septiembre 2024- Ciudad de La Plata - Buenos Aires -
+    Argentina)
+
+    <item>Speaker at: Mind the Gap (2-6 de Diciembre, Cordoba - Argentina)
+  </itemize-dot>
+
+  <with|font|TeX Gyre Pagella|<with|font-base-size|14|<strong|Other
+  courses>>>
+
+  <em|February 2022>
+
+  Machine Learning
+
+  Certied by Stanford-Online-Coursera
+
+  \;
+
+  <em|June 2022>
+
+  Python for Data Science, AI & Development
+
+  Certied by IBM-Coursera
+
+  \;
+
+  <em|June 2022>
+
+  Introduction to Cloud Computing
+
+  Certied by IBM-Coursera
+
+  \;
+
+  <em|June 2022>
+
+  Python Project for AI & Application Development
+
+  Certied by IBM-Coursera
+
+  \;
+
+  <em|November 2023>
+
+  Redes Neuronales con Python 2023
+
+  Certificate of Attendance - FAMAF
 </body>
 
 <\initial>
